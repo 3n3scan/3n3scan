@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## Hey, I'm 3n3scan 👋
 - I'm a python programmer
 - I develop Discord bots using [Pycord](https://github.com/Pycord-Development/pycord)
-- My Website: [FantasySite™](https://3n3scan.netlify.app)
+- My Website: [FantasySite™](https://www.fantasybot.de/)
 
 ##### Support Server for my Bot 🍪
 [![](https://img.shields.io/discord/1099408121409048586?label=discord&style=for-the-badge&logo=discord&color=5865F2&logoColor=white)](https://discord.gg/HcUf2J5pxT)
