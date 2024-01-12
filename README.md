@@ -11,8 +11,9 @@ class Bio extends HobbyDeveloper {
   name        = 'Enes Can | 3n3scan';
   title       = 'Hobby Developer';
   location    = 'Gelsenkirchen, Germany';
-  website     = 'https://www.3n3scan.de';
-  my_project  = 'https://www.fantasybot.de';
+  website     = 'https://www.3n3scan.de/';
+  github_page = 'https://3n3scan.github.io/';
+  my_project  = 'https://www.fantasybot.de/';
 }
 
 class Skills extends HobbyDeveloper {
