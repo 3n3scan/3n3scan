@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/3n3scan/3n3scan/main/eno.png" />
+  <a href="https://www.3n3scan.de" target="_blank">
+    <img src="https://raw.githubusercontent.com/3n3scan/3n3scan/main/eno.png" alt="3n3scan's Github Profile" title="3n3scan's Github Profile" />
+  </a>
 </p>
 
 ```js
