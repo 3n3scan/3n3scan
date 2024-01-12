@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/3n3scan/3n3scan/main/cover-3n3scan.png" />
+  <img src="https://raw.githubusercontent.com/3n3scan/3n3scan/main/eno.png" />
 </p>
 
 ```js
