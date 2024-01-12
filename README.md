@@ -5,9 +5,9 @@
 </p>
 
 ```js
-import { SoftwareDeveloper } from '@3n3scan';
+import { HobbyDeveloper } from '@3n3scan';
 
-class Bio extends SoftwareDeveloper {
+class Bio extends HobbyDeveloper {
   name        = 'Enes Can | 3n3scan';
   title       = 'Hobby Developer';
   location    = 'Gelsenkirchen, Germany';
@@ -15,7 +15,7 @@ class Bio extends SoftwareDeveloper {
   my_project  = 'https://www.fantasybot.de';
 }
 
-class Skills extends SoftwareDeveloper {
+class Skills extends HobbyDeveloper {
   languages  = ['Python', 'HTML', 'CSS', 'JavaScript'];
   databases  = ['MySQL', 'MongoDB', 'aiosqlite'];
   frameworks = ['Bootstrap', 'Node.js', 'Express', 'Flask'];
